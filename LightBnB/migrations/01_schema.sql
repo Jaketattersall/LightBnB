@@ -49,3 +49,4 @@ CREATE TABLE property_reviews (
   message TEXT
 );
 
+--edited
